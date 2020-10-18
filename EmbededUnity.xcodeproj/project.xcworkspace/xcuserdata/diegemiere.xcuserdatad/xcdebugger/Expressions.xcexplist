@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "UnityEmbeddedSwift.unityIsInitialized():UnityEmbeddedSwift.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ufw">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UnityEmbeddedSwift.initUnityWindow():UnityEmbeddedSwift.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ufw">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UnityFramework showUnityWindow]:main.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "appController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UnityEmbeddedSwift.showUnityWindow():UnityEmbeddedSwift.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "window">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
